@@ -1,0 +1,3 @@
+TSpArKLe,Easy,4627
+PinkiePi,Medium,3478
+TSpArKLe,Hard,2613
